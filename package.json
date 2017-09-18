@@ -20,7 +20,7 @@
     "inspect": "nodemon --inspect --trace-warnings index.js"
   },
   "engines": {
-    "node": ">=7.6.0"
+    "node": ">=6.0.0"
   },
   "repository": "https://github.com/bee-queue/arena.git",
   "version": "2.2.0"
